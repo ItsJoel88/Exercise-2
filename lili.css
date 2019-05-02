@@ -1,0 +1,42 @@
+html,body{
+    padding:0;
+    margin:0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+}
+body{
+    color:white;
+    background:black;
+}
+h1{
+    border:4px dashed;
+    width:40%;
+    margin:5px auto;
+}
+.input{
+    padding:10px;
+}
+#angka1 , #angka2{
+    padding:10px;
+    margin:10px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#op{
+    padding:7px;
+}
+button{
+    padding:10px 20px;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+    margin:10px;
+}
+#hasil{
+    padding:20px;
+    margin:5px auto;
+    border:3px solid;
+    width:30%;
+}
+
